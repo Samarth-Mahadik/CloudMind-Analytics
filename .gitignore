@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# AWS credentials or sensitive data
+*.csv
+*.json
+*.pem
+
+# Temporary output data
+output/analysis/*.csv
+output/costs/*.csv
+output/predictions/*.csv
+
+# IDE settings
+.vscode/
+.idea/
