@@ -76,7 +76,7 @@ Sends automated email when idle/underutilized resources detected.
 
 ## 📹 Demo Video
 
-🎥 [Watch Demo Video](Your LinkedIn or YouTube demo video link)
+🎥 [Watch Demo Video](https://www.linkedin.com/posts/samarth-mahadik-8a7965339_aws-python-streamlit-activity-7386592947229724672-9Dbg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUJiL8Bu7meMqELvAFpli67RCHgefR5ucA)
 
 ---
 
