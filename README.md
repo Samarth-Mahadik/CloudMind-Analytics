@@ -8,11 +8,11 @@ CloudMind Analytics intelligently scans AWS resources (EC2, EBS, S3, RDS), calcu
 ## 🔍 Features
 
 ✅ Fetches live AWS resource data using `boto3`  
-✅ Detects idle or underutilized resources  
+✅ Detects underutilized AWS resources (EC2, S3, RDS, EBS)  
 ✅ Calculates cost & savings using AWS pricing models  
-✅ Predicts future wastage using ML regression  
+✅ Predicts future cost & wastage using AI (ML-based model)  
 ✅ Streamlit dashboard for cost insights & recommendations  
-✅ Optional email/SNS alerts for idle resources  
+✅ Optional Automated alerts via AWS Lambda + EventBridge + SNS  
 
 ---
 
@@ -33,6 +33,7 @@ Data Gathering → Resource Analysis → Cost Calculation → ML Prediction → 
 - **Streamlit**
 - **Scikit-learn**
 - **Pandas / Numpy / Matplotlib**
+- **AWS (EC2, S3, RDS, Lambda, EventBridge, SNS, Cloud Watch, IAM)**
 
 ---
 
