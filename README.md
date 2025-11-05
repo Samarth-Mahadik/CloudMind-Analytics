@@ -3,6 +3,9 @@
 
 CloudMind Analytics intelligently scans AWS resources (EC2, EBS, S3, RDS), calculates current & potential costs, predicts future wastage trends using ML, and visualizes actionable insights on a Streamlit dashboard.
 
+## 📅 Project Duration
+**September 2025 – October 2025**
+
 ---
 
 ## 🔍 Features
